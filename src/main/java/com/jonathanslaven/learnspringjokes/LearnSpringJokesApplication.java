@@ -1,0 +1,13 @@
+package com.jonathanslaven.learnspringjokes;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LearnSpringJokesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LearnSpringJokesApplication.class, args);
+	}
+
+}
